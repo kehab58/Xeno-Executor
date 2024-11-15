@@ -16,7 +16,7 @@ Xeno Executor is an advanced tool for executing scripts with high efficiency. Un
 - **Enhanced Gameplay**: Unlock new features, cheats, and hacks that enhance your Roblox experience 🔧.  
 - **Regular Updates**: Continuous updates to ensure compatibility with the latest Roblox versions and security measures 🔄.  
 - **No Bans**: Xeno Executor stays **undetected** by Roblox’s security system, minimizing the risk of account bans 🚫.  
-- **Free to Use**: Enjoy all the features of Xeno Executor without any hidden fees or subscriptions 💸.  
+- **Free to Use**: Enjoy all the features of Xeno Executor without any hidden fees or subscriptions 💸.
 
 ## ⚡️ How It Works:
 1. **Download and Install**: Get the latest version of Xeno Executor from the official website 🔽.  
